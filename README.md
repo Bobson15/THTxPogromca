@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kuba Wisniewski</h1>
+<h1 align="center">Hi 👋, I'm Kuba Wisniewski</h1>\
+<img align="right" src="https://i.imgur.com/FQeGVSu.gifv" alt="Animated coding gif" width="400px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thtxpogromca&label=Profile%20views&color=0e75b6&style=flat" alt="thtxpogromca" /> </p>
 
 - 🔭 I’m currently working on **MusicPedia**
